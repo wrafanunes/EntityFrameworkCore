@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EFDataAccessLibrary.Models
 {
-    internal class Address
+    public class Address
     {
         public int Id { get; set; }
         public string StreetAddress { get; set; }
