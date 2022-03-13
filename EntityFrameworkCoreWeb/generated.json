@@ -1,0 +1,122 @@
+[
+  {
+    "FirstName": "Rafael",
+    "LastName": "Nunes",
+    "Age": 6,
+    "Adresses": [
+      {
+        "StreetAddress": "Rua",
+        "City": "do",
+        "State": "SP",
+        "ZipCode": "000"
+      },
+      {
+        "StreetAddress": "Cinco",
+        "City": "F",
+        "State": "SP",
+        "ZipCode": "000"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "com"
+      }
+    ]
+  },
+   {
+      "FirstName": "Rafael",
+      "LastName": "Nunes",
+      "Age": 3,
+      "Adresses": [
+         {
+            "StreetAddress": "Cinco",
+            "City": "Sul",
+            "State": "SP",
+            "ZipCode": "15775"
+         },
+         {
+            "StreetAddress": "Rua",
+            "City": "do",
+            "State": "SP",
+            "ZipCode": "000"
+         }
+      ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "email"
+      }
+    ]
+   },
+   {
+      "FirstName": "Wilson",
+      "LastName": "Nunes",
+      "Age": 4,
+      "Adresses": [
+         {
+            "StreetAddress": "Cinco",
+            "City": "do",
+            "State": "SP",
+            "ZipCode": "000"
+         },
+         {
+            "StreetAddress": "Rua",
+            "City": "F",
+            "State": "SP",
+            "ZipCode": "000"
+         }
+      ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "com"
+      }
+    ]
+   },
+   {
+      "FirstName": "Rafael",
+      "LastName": "Nunes",
+      "Age": 1,
+      "Adresses": [
+         {
+            "StreetAddress": "Cinco",
+            "City": "F",
+            "State": "SP",
+            "ZipCode": "000"
+         },
+         {
+            "StreetAddress": "Cinco",
+            "City": "F",
+            "State": "SP",
+            "ZipCode": "15775"
+         }
+      ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "familianunes"
+      }
+    ]
+   },
+   {
+      "FirstName": "Rafael",
+      "LastName": "Nunes",
+      "Age": 5,
+      "Adresses": [
+         {
+            "StreetAddress": "Rua",
+            "City": "Santa",
+            "State": "SP",
+            "ZipCode": "15775"
+         },
+         {
+            "StreetAddress": "Cinco",
+            "City": "Sul",
+            "State": "SP",
+            "ZipCode": "000"
+         }
+      ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "Email"
+      }
+    ]
+   }
+]
