@@ -29,8 +29,16 @@ namespace EntityFrameworkCoreWeb.Pages
             var people = _peopleContext.People
                 .Include(a => a.Addresses)
                 .Include(e => e.EmailAddresses)
+                //.Where(x => ApprovedAge(x.Age))
+                .Where(a => a.Age >= 18 && a.Age <= 65)
                 .ToList();
         }
+        /*This method will tell EFCore to use C# code against SQL code, althought this works, it is not efficient
+        because the sql will return all the data and only then filter using the conditions inside this method*/
+        //private bool ApprovedAge(int age)
+        //{
+        //    return age >= 18 && age <= 65;
+        //}
 
         private void LoadSampleData()
         {
