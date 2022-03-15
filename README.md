@@ -26,7 +26,7 @@ The system is compesed by a database and a web application.
 Access to the database using an object-relational mapper.
 Update and keep the database in sync with the application's data models
 
-The tools used to develop the system include C#, a back-end programming language, there is no intention to create a front-end in the application. The Data Base Management System(DBMS) chosen was SQL Server.
+The tools used to develop the system include C#, a back-end programming language, the front-end will be just a formality in this application. The Data Base Management System(DBMS) chosen was SQL Server.
 
 # Conclusion
 
@@ -61,7 +61,7 @@ O sistema é composto por um banco de dados e uma aplicação web.
 Acesso ao banco de dados usando um mapeador objeto-relacional.
 Atualizar e manter o banco de dados sincronizado com os modelos de dados do aplicativo.
 
-As ferramentas utilizadas para desenvolver o sistema incluem C#, uma linguagem de programação back-end, não há intenção de criar um front-end na aplicação. O Sistema Gerenciador de Banco de Dados(SGBD) escolhido foi o SQL Server.
+As ferramentas utilizadas para desenvolver o sistema incluem C#, uma linguagem de programação back-end, o front-end será apenas uma formalidade nesta aplicação. O Sistema Gerenciador de Banco de Dados(SGBD) escolhido foi o SQL Server.
 
 # Conclusão
 
